@@ -58,37 +58,31 @@ I enjoy learning new technologies and improving UI/UX through real-world project
 
 # 📌 Pinned Projects
 
-### ⭐ **1. Tourism Explorer**
-A feature-rich tourism platform built with **React, Firebase & Tailwind**  
+### ⭐ **1.News-Dragon**
+A dynamic React-based news platform with category filtering and Firebase authentication.
 **Live:** your-live-link  
 **Tech:** React, Firebase Auth, Context API  
 **Highlight:** dynamic filtering, protected routes  
 
 ---
 
-### ⭐ **2. E-Commerce UI**
-A clean and responsive e-commerce frontend  
+### ⭐ **2. Book-Vibe-Store**
+A modern online bookstore featuring smooth browsing, category sorting, and easy checkout UI.  
 **Live:** your-live-link  
 **Tech:** React, Tailwind, FakeAPI  
 **Highlight:** category filtering + cart UI  
 
 ---
 
-### ⭐ **3. React Authentication System**
-Authentication system with Firebase  
+### ⭐ **3. Car-Doctor-Client**
+A car service booking app with responsive UI, secure login, and service details management.
 **Live:** your-live-link  
 **Tech:** React, Firebase, React Router  
 **Highlight:** login, signup, update profile  
 
 ---
 
-### ⭐ **4. Portfolio Website**
-Your personal portfolio website  
-**Live:** your-live-link  
-**Tech:** React, CSS, AOS Animations  
-**Highlight:** clean UI + interactive sections  
-
----
+ 
 
 ## 🌍 Location & Contact
 - 📌 **Bangladesh**  
