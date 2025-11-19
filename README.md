@@ -74,9 +74,9 @@ This is a React Vite project about some apps and details. The user can explore a
 
 ---
 
-### ⭐ **3. Car-Doctor-Client**
-A car service booking app with responsive UI, secure login, and service details management.
-**Live:** your-live-link  
+### ⭐ **3. GloveTalkt**
+GloveTalk is an interactive language exchange platform that connects learners with instructors offering lessons in various languages.  
+**Live:** [Live Link](https://glove-talk.web.app/)   
 **Tech:** React, Firebase, React Router  
 **Highlight:** login, signup, update profile  
 
