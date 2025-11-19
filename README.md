@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[banner](https://i.ibb.co.com/RG5VbXrd/github-banner.png)" alt="Banner" />
+  <img src="[banner](https://i.ibb.co/RG5VbXrd/github-banner.png)" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Chayan Sarkar</h1>
