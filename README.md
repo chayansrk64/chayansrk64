@@ -59,16 +59,16 @@ I enjoy learning new technologies and improving UI/UX through real-world project
 # 📌 Pinned Projects
 
 ### ⭐ **1.PawMart**
-PawMart — Adopt, Rescue & Rehome Pets.
-**Live:** [Live Link:]( https://pawmart-6d54f.web.app)
+PawMart — Adopt, Rescue & Rehome Pets.  
+**Live:** [Live Link](https://pawmart-6d54f.web.app)  
 **Tech:** React, Firebase Auth, Context API  
 **Highlight:** dynamic filtering, protected routes  
 
 ---
 
 ### ⭐ **2. Play_Chunk**
-This is a React Vite project about some apps and details. The user can explore all the apps and some interactions with apps:
-**Live:** [Live Link:](https://musical-croissant-eaca47.netlify.app/) 
+This is a React Vite project about some apps and details. The user can explore all the apps and some interactions with apps  
+**Live:** [Live Link](https://musical-croissant-eaca47.netlify.app/)  
 **Tech:** React, Tailwind, FakeAPI  
 **Highlight:** category filtering + cart UI  
 
