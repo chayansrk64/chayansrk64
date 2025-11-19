@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://via.placeholder.com/1000x260?text=Chayan+Sarkar+-+Front-End+Developer](https://i.ibb.co.com/RG5VbXrd/github-banner.png)" alt="Banner" />
+  <img src="[banner](https://i.ibb.co.com/RG5VbXrd/github-banner.png)" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Chayan Sarkar</h1>
@@ -91,9 +91,9 @@ Your personal portfolio website
 
 ## 🌍 Location & Contact
 - 📌 **Bangladesh**  
-- 📧 **your-email@example.com**  
-- 🔗 **LinkedIn:** your-link  
-- 🔗 **GitHub:** your-profile  
+- 📧 **chayansrk64@gmail.com**  
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/chayansrk64/) 
+- 🔗 **GitHub:** [Github ](https://github.com/chayansrk64)
 
 ---
 
