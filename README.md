@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Wp3pnM8T/github-banner2-1.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/KjdgvDMQ/rsz-1banner.png" alt="Banner" width="100%" />
 </p>
-
 
 <h1 align="center">👋 Hi, I'm Chayan Sarkar</h1>
 <h3 align="center">Front-End Web Developer | React & Next.js Enthusiast</h3>
