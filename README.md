@@ -13,7 +13,7 @@
 I'm a passionate Front-End Developer focused on building clean, responsive, and modern web applications.  
 I enjoy learning new technologies and improving UI/UX through real-world projects.
 
-### 🔥 What I'm Doing Now
+## 🔥 What I'm Doing Now
 - 🌱 Exploring **Next.js**
 - 🔭 Working on a **Tourism Website**
 - ⚡ Improving UI/UX design & animation skills
@@ -64,7 +64,7 @@ I enjoy learning new technologies and improving UI/UX through real-world project
 
 ---
 
-# 📌 Pinned Projects
+## 📌 Pinned Projects
 
 ### ⭐ **1.PawMart**
 PawMart — Adopt, Rescue & Rehome Pets.  
