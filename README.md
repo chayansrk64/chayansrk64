@@ -65,7 +65,15 @@ I enjoy learning new technologies and improving UI/UX through real-world project
 
 ## 📌 Pinned Projects
 
-### ⭐ **1.PawMart**
+### ⭐ **1.LoanLink**
+A full-stack web application that allows users to explore loan options, apply for loans, and track application status.
+**Live:** [Live Link](https://loanlink-7a1ec.web.app/)  
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase Auth, Context API  
+**Highlight:** dynamic filtering, protected routes  
+
+---
+
+### ⭐ **2.PawMart**
 PawMart — Adopt, Rescue & Rehome Pets.  
 **Live:** [Live Link](https://pawmart-6d54f.web.app)  
 **Tech:** React, Firebase Auth, Context API  
