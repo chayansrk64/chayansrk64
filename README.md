@@ -57,9 +57,8 @@ I enjoy learning new technologies and improving UI/UX through real-world project
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chayansrk64&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chayansrk64&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chayansrk64&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chayansrk64&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chayansrk64)](https://git.io/streak-stats)
 
 
 ---
