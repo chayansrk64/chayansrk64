@@ -46,6 +46,15 @@ I enjoy learning new technologies and improving UI/UX through real-world project
 
 ---
 
+
+## 🌍 Location & Contact
+- 📌 **Bangladesh**  
+- 📧 **chayansrk64@gmail.com**  
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/chayansrk64/) 
+- 🔗 **GitHub:** [Github ](https://github.com/chayansrk64)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chayansrk64&show_icons=true&theme=tokyonight)
@@ -81,16 +90,6 @@ GloveTalk is an interactive language exchange platform that connects learners wi
 
 ---
 
- 
-
-## 🌍 Location & Contact
-- 📌 **Bangladesh**  
-- 📧 **chayansrk64@gmail.com**  
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/chayansrk64/) 
-- 🔗 **GitHub:** [Github ](https://github.com/chayansrk64)
-
----
-
 ## 🧭 My Developer Journey
 - 2023 – Started Web Development  
 - 2024 – Built major real-world projects  
@@ -98,7 +97,7 @@ GloveTalk is an interactive language exchange platform that connects learners wi
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 - Master **Next.js** fully  
 - Build **full MERN applications**  
 - Improve performance optimization  
@@ -106,10 +105,5 @@ GloveTalk is an interactive language exchange platform that connects learners wi
 
 ---
 
-## 😊 Fun Facts
-- 💻 I love designing UI components 
-- 🧠 I enjoy solving problems & learning new tech  
-
----
 
 <p align="center">⭐ Thanks for visiting my profile! ⭐</p>
