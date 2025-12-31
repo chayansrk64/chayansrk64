@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Chayan Sarkar</h1>
-<h3 align="center">Front-End Web Developer | React & Next.js Enthusiast</h3>
+<h3 align="center">MERN-Stack Web Developer | React & Next.js Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
-I'm a passionate Front-End Developer focused on building clean, responsive, and modern web applications.  
+I'm a passionate MERN-Stack Developer focused on building clean, responsive, and modern web applications.  
 I enjoy learning new technologies and improving UI/UX through real-world projects.
 
 ## 🔥 What I'm Doing Now
