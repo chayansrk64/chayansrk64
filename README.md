@@ -55,10 +55,11 @@ I enjoy learning new technologies and improving UI/UX through real-world project
 
 ---
 
-## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chayansrk64&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=chayansrk64)](https://git.io/streak-stats)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chayansrk64&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=chayansrk64&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chayansrk64&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
